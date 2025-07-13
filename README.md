@@ -33,6 +33,7 @@ NumPy
 Clone the repo:
 
 git clone https://github.com/Bhoomikakt-123/SecureMPC-LR.git
+
 cd SecureMPC-LR
 
 Install dependencies:
